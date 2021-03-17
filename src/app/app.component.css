@@ -1,0 +1,12 @@
+p {
+  font-family: Lato;
+  flex: center;
+}
+
+p:hover {
+  color: green;
+}
+
+h1 {
+  color: green;
+}
